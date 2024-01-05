@@ -1,5 +1,5 @@
 @Library('vijayavani-library') _
 
-env.repo_name = "expense-backend"
-env.app_type = "nodejs"
+env.repo_name = "golden-ami"
+
 goldenAmi()
